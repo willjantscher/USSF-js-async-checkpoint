@@ -7,7 +7,7 @@ await = require('await');
 async = require('async');
 
 var pokeNamesArr = ""
-var url = "https://pokeapi.co/api/v2/pokemon/" //url to the pokemon API
+var url = "https://pokeapi.co/api/v2/pokemon?limit=2000" //url to the pokemon API
 
 if(process.argv.length < 3){  //Expected third argument is name of input file
     console.log("Must include a file name");
