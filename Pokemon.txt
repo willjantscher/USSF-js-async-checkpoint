@@ -1,2 +1,17 @@
 charizard
+lvysuar
+venusaur
+charmeleon
+charmander
+beedrill
+weedle
+butterfree
+rattata
+spearow
 pikachu
+raichu
+sandshrew
+nidoqueen
+clefairy
+clefable
+
