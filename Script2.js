@@ -1,5 +1,6 @@
 //load required modules/packages
 //in console run this to add to the local repository
+    //type npm init to initialize project at start
     //npm install fs wait async
 fetch = require('node-fetch')
 fs = require('fs');
